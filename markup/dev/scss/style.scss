@@ -22,6 +22,7 @@ $media-expressions: (
 // ligatured operators ≥ ≤
 
 @import 'vendors/include-media';
+@import 'vendors/gutenberg';
 
 @import 'base/utilities';
 @import 'base/mixins';
